@@ -4,7 +4,7 @@ import java.nio.ByteOrder;
 import java.nio.FloatBuffer;
 
 import javax.microedition.khronos.opengles.GL10;
-
+//fsdafads
 public abstract class AbstractDrawable implements Drawable{
     protected final float[][] materialColors;
     protected float[] vertexs;
